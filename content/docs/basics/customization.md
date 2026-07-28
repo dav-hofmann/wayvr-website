@@ -79,16 +79,20 @@ A custom palette is a JSON file, which is then placed into `~/.config/wayvr/pale
 
 ## Customizing sounds
 
-Audio files with the following names can be added to `~/.config/wayvr/sound/`, and will replace the original sounds:
+Audio files with the following names can be added to `~/.config/wayvr/sound/` to replace the original sounds:
 
 - `toast.mp3` - Notification Toast appears.
 - `key_click.mp3` - Keyboard Key is pressed.
+- `fix_floor.mp3` - Fix Floor timer countdown. Timer expires at 5 seconds.
 - `wgui_mouse_enter.mp3` - Laser Pointer enters a clickable element.
 - `wgui_button_press.mp3` - Button Element is pressed.
 - `wgui_button_release.mp3` - Button Element is released.
 - `wgui_checkbox_check.mp3` - Checkbox Element is checked.
 - `wgui_checkbox_uncheck.mp3` - Checkbox Element is unchecked.
-- `startup.mp3` - Dashboard is created. (i.e. opened for the first time this session)
+- `wvr_input_capture_grabbed.mp3` - Input Capture begins.
+- `wvr_input_capture_ungrabbed.mp3` - Input Capture stops.
+- `save.mp3` - Pinned Apps list is saved after modification.
+- `startup.mp3` - Dashboard is opened for the first time this session.
 - `app_start.mp3` - App is launched from the dashboard.
 
 ## Customizing keyboard, watch, etc
