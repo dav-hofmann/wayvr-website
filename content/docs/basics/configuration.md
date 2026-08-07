@@ -26,6 +26,10 @@ For further questions, reach out to us on Discord or Matrix.
 
 There is a custom binding called Alt Click that may be used to execute arbitrary commands.
 
+To bind Alt-click to your controller:
+- WiVRn/Monado: Bind via WayVR dashboard → Settings → Controls
+- SteamVR: Bind via SteamVR bindings
+
 For example, here's a setup that adds push-to-talk functionality for the WiVRn microphone:
 
 ```yaml
