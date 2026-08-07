@@ -22,6 +22,21 @@ The file is self-documenting, opening and reading it will hopefully answer your 
 
 For further questions, reach out to us on Discord or Matrix.
 
+## Custom command bindings
+
+There is a custom binding called Alt Click that may be used to execute arbitrary commands.
+
+For example, here's a setup that adds push-to-talk functionality for the WiVRn microphone:
+
+```yaml
+# ~/.config/wayvr/conf.d/ptt.yaml
+
+alt_click_down: ["pactl", "set-source-mute", "wivrn.source", "0"]
+alt_click_up: ["pactl", "set-source-mute", "wivrn.source", "1"]
+```
+
+(For microphones other than WiVRn, check your source name using `pactl list short sources`)
+
 # Keyboard layouts
 
 ### Fcitx5
