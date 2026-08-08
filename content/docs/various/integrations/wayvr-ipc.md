@@ -41,7 +41,7 @@ Example output: `{"hmd_pos":[0.0,1.6,0.0],"left":{"pos":[-0.2,1.3,-0.5]},"right"
 wayvrctl window-list
 ```
 
-Example output: `[{"size_x":1920,"size_y":1080,"visible":true,"handle":{"idx":0,"generation":1},"process_handle":{"idx":0,"generation":1}}]`
+Example output: `[{"size_x":1920,"size_y":1080,"visible":true,"handle":{"user":12345},"process_handle":{"user": 23456}}]`
 
 #### Change the visibility of a window on a WayVR display
 
@@ -51,7 +51,7 @@ wayvrctl window-set-visible <handle> <visible_0_or_1>
 
 `handle`: A JSON window handle returned by window-list
 
-Example: `wayvrctl window-set-visible "{\"idx\":0,\"generation\":1}" 1`
+Example: `wayvrctl window-set-visible "{\"user\":12345}" 1`
 
 ---
 
@@ -63,7 +63,7 @@ Example: `wayvrctl window-set-visible "{\"idx\":0,\"generation\":1}" 1`
 wayvrctl process-list
 ```
 
-Example output: `[{"name":"eglgears_wayland","handle":{"idx":0,"generation":1},"userdata":{}}]`
+Example output: `[{"name":"eglgears_wayland","handle":{"user":12345},"userdata":{}}]`
 
 #### Get WayVR-managed process info
 
@@ -73,7 +73,7 @@ wayvrctl process-get <handle>
 
 `handle`: A JSON process handle returned by `process-list` or `process-launch`
 
-Example: `wayvrctl process-get "{\"idx\":0,\"generation\":1}"`
+Example: `wayvrctl process-get "{\"user\":12345}"`
 
 #### Terminate a WayVR-managed process
 
@@ -103,7 +103,7 @@ Example: `wayvrctl process-launch eglgears_wayland "1280x720" floating`
 
 Available position modes: `floating`, `anchored`, `static`
 
-Example output: `{"idx":42,"generation":123}`
+Example output: `{"user":12345}`
 
 ---
 
