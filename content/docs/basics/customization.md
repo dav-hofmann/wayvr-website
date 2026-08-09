@@ -104,9 +104,11 @@ The default XML files can be found in [src/assets/gui](https://github.com/wayvr-
 The `uidev` utility is provided for testing UI elements outside of VR:
 
 ```sh
-cd uidev
+cd wayvr/uidev
 TESTBED=../wayvr/src/assets/gui/watch.xml cargo run
 ```
+
+(_Requires a local checkout of the [WayVR repo](https://github.com/wayvr-org/wayvr)_)
 
 ## Adding custom overlay panels
 

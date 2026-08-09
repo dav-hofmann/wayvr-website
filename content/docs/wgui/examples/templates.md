@@ -11,7 +11,7 @@
 
   <elements>
     <!-- "title" used here -->
-    <DecoratedTitle title="This is a title.">
+    <DecoratedTitle title="This is a title." />
   </elements>
 </layout>
 

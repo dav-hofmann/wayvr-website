@@ -70,7 +70,7 @@ Dependencies:
 - Arch: `libpipewire clang`
 - Fedora: `pipewire-devel clang`
 - Ubuntu: `libpipewire-0.3-0 libpipewire-0.3-dev libspa-0.2-dev clang`
-- 
+
 ### Feature `whisper`
 
 Add speech-to-text transcription support.
@@ -80,7 +80,7 @@ Dependencies:
 - Arch: `vulkan-headers glslc`
 - Fedora: `vulkan-headers glslc`
 - Ubuntu: `libvulkan-dev glslc vulkan-tools`
-- 
+
 ### Feature `osc`
 
 Enable this if you want XSO-compatible OSC parameters in VRChat
