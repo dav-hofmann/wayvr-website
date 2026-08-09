@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "WayVR - OpenXR/OpenVR Overlay for Wayland and X11"
+description: "A lightweight OpenXR/OpenVR overlay for Wayland and X11 Linux desktops. Documentation, downloads, and community resources."
 layout: landing
 ---
 
