@@ -2,6 +2,7 @@ baseURL: 'https://wayvr.org/'
 locale: 'en-us'
 title: 'WayVR'
 theme: 'hugo-book'
+summaryLength: 0
 
 markup:
   goldmark:
