@@ -1,3 +1,8 @@
+---
+title: "Label"
+description: "Wgui label widget for simple text display with size, color, alignment, and shadow options."
+---
+
 ## label widget
 
 ### `<label>`

@@ -1,6 +1,7 @@
 ---
 title: "Custom textures and skymaps"
 bookIcon: "panorama"
+description: "Create custom DDS textures and skyboxes using Texpresso, Compressonator, or GIMP."
 ---
 
 # Custom textures

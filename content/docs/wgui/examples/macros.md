@@ -1,3 +1,8 @@
+---
+title: "Macros"
+description: "Wgui macros for reusable attribute sets applied to elements via the macro attribute."
+---
+
 ## Macros
 
 ```xml

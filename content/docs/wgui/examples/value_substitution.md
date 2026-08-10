@@ -1,3 +1,8 @@
+---
+title: "Value Substitution"
+description: "Use theme variables and value substitution in Wgui for theming and dynamic content."
+---
+
 ## Value substitution (themes)
 
 ```xml

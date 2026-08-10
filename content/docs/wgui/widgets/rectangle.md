@@ -1,3 +1,8 @@
+---
+title: "Rectangle"
+description: "Wgui rectangle widget for styled panels with gradients, rounding, and borders."
+---
+
 ## rectangle widget
 
 ### `<rectangle>`

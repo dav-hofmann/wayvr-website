@@ -1,6 +1,7 @@
 ---
 title: "Mirrors"
 bookIcon: "window"
+description: "View-only PipeWire cast overlays for screens, regions, and windows on Wayland."
 ---
 
 # Mirrors

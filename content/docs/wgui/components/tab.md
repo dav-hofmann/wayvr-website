@@ -1,5 +1,6 @@
 ---
 title: "Tab"
+description: "Wgui tab component - a single tab inside a Tabs component."
 ---
 
 ## Tab component

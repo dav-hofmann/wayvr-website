@@ -1,5 +1,6 @@
 ---
 title: "WayVR's Wayland Server"
+description: "Launch external apps inside WayVR's internal Smithay Wayland compositor."
 ---
 
 # Wayland Server

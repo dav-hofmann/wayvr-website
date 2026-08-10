@@ -1,5 +1,6 @@
 ---
 title: "WayVR IPC (wayvrctl)"
+description: "Control WayVR via CLI with wayvrctl - manage windows, processes, haptics, and GUI elements."
 ---
 
 # WayVR IPC + Wayvrctl

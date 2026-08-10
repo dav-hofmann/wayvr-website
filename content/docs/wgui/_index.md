@@ -4,6 +4,7 @@ bookFlatSection: false
 bookCollapseSection: true
 bookIcon: "wgui_logo_traced"
 weight: 4
+description: "Vulkan-based GUI library for WayVR - widgets, components, and theming."
 ---
 
 {{% center %}}

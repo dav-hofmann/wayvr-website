@@ -1,6 +1,7 @@
 ---
 title: "Troubleshooting"
 bookIcon: "troubleshoot"
+description: "Common issues, log debugging, and how to provide debug information for bug reports."
 ---
 
 # Troubleshooting

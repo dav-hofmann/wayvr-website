@@ -1,3 +1,8 @@
+---
+title: "File Inclusion"
+description: "Include and compose Wgui XML files with theme variables and modular layouts."
+---
+
 ## File inclusion
 
 theme.xml:

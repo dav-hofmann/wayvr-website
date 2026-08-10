@@ -1,3 +1,8 @@
+---
+title: "Sprite"
+description: "Wgui sprite widget for small images up to 256x256px, efficient for icons and atlased assets."
+---
+
 ## sprite widget
 
 ### `<sprite>`

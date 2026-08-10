@@ -1,3 +1,8 @@
+---
+title: "Custom UI Elements"
+description: "Modify WayVR custom UI elements at runtime using wayvrctl and XML panel definitions."
+---
+
 # Custom UI Elements
 
 Elements on custom panels may be modified at runtime using [wayvrctl](/docs/various/integrations/wayvr-ipc).

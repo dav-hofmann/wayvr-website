@@ -2,6 +2,7 @@
 title: "Configuration"
 parent: "Basics"
 bookIcon: "settings"
+description: "Learn how to configure WayVR through the dashboard or advanced config files."
 ---
 
 # Configuration

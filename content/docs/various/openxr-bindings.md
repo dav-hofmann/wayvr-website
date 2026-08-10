@@ -1,6 +1,7 @@
 ---
 title: "OpenXR Bindings"
 bookIcon: "controller"
+description: "Configure OpenXR controller bindings for Monado, WiVRn, and SteamVR."
 ---
 
 # OpenXR Bindings

@@ -1,5 +1,6 @@
 ---
 title: "Video"
+description: "Wgui video component for playing AV1/IVF videos using the dav1d codec."
 ---
 
 ## Video component

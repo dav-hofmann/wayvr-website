@@ -1,3 +1,8 @@
+---
+title: "Image"
+description: "Wgui image widget for displaying large images."
+---
+
 ## image widget
 
 ### `<image>`

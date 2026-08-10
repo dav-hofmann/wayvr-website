@@ -1,5 +1,6 @@
 ---
 title: "EditBox"
+description: "Wgui editbox component for single-line text input fields."
 ---
 
 ## EditBox component

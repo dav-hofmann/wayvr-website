@@ -1,5 +1,6 @@
 ---
 title: "OSC Parameters"
+description: "OSC parameter support for VRChat and other applications - overlays, headset, controller, and tracker data."
 ---
 
 # OSC (Open Sound Control) parameters

@@ -1,5 +1,6 @@
 ---
 title: "CheckBox"
+description: "Wgui checkbox component for binary on/off toggles with label."
 ---
 
 ## CheckBox component

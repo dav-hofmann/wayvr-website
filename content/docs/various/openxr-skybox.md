@@ -1,6 +1,7 @@
 ---
 title: "OpenXR Skybox"
 bookIcon: "photosphere"
+description: "Configure the OpenXR skybox, passthrough, and custom HDRI skybox textures."
 ---
 
 # OpenXR Skybox

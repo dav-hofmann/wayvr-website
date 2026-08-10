@@ -1,5 +1,6 @@
 ---
 title: "Button"
+description: "Wgui button component - clickable, decorated buttons with hover effects, tooltips, and sprites."
 ---
 
 ## Button component

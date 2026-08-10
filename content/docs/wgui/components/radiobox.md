@@ -1,5 +1,6 @@
 ---
 title: "RadioBox"
+description: "Wgui radio box and radio group components for mutually exclusive selection."
 ---
 
 ## RadioBox component

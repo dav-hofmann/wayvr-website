@@ -1,6 +1,7 @@
 ---
 title: "Building from source"
 bookIcon: "terminal"
+description: "Build WayVR from source with Cargo, customizing features for your platform."
 ---
 
 # Building from source

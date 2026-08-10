@@ -1,3 +1,8 @@
+---
+title: "Simple Layout"
+description: "A basic Wgui layout example with labels, divs, and rectangles."
+---
+
 ## Simple layout
 
 ```xml

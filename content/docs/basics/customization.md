@@ -1,6 +1,7 @@
 ---
 title: "UI Customization"
 bookIcon: "magic_button"
+description: "Customize WayVR UI with palettes, custom panels, sounds, and wayvrctl commands."
 ---
 
 # WayVR UI Customization

@@ -1,3 +1,8 @@
+---
+title: "Templates"
+description: "Wgui templates for reusable XML layout patterns with parameter passing."
+---
+
 ## Templates
 
 ```xml

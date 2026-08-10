@@ -1,5 +1,6 @@
 ---
 title: "Slider"
+description: "Wgui slider component for single or range value input."
 ---
 
 ## Slider component

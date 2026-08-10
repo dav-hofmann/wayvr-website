@@ -2,6 +2,7 @@
 title: "Main page"
 bookIcon: "wayvr_logo_traced"
 bookFlatSection: true
+description: "WayVR documentation wiki - getting started, configuration, and advanced topics."
 ---
 
 {{% center %}}

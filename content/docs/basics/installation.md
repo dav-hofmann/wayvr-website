@@ -2,6 +2,7 @@
 title: "Installation"
 bookIcon: "download"
 weight: 2
+description: "Install WayVR via AppImage, AUR, Homebrew-XR, Nix, or other package sources."
 ---
 
 ### Installation Methods
