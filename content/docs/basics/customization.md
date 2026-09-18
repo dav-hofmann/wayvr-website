@@ -22,7 +22,7 @@ timezones:
 
 Accepted timezones are listed in the [TZ identifier column here](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 
-On the default watch, time zones specified here affect the 2 smaller clocks. 
+On the default watch, time zones specified here affect the 2 smaller clocks.
 
 Once this file is created, the various settings in custom UI that accept the `_timezone` property will use these custom alternate timezones (instead of the default set, which are selected as major ones on different continents from your current actual timezone).
 
@@ -38,34 +38,38 @@ A custom palette is a JSON file, which is then placed into `~/.config/wayvr/pale
 
 ```json
 {
-  "primary": "#cba6f7",
-  "on_primary": "#11111b",
+	"primary": "#cba6f7",
+	"on_primary": "#11111b",
 
-  "secondary": "#fab387",
-  "on_secondary": "#11111b",
+	"secondary": "#fab387",
+	"on_secondary": "#11111b",
 
-  "tertiary": "#94e2d5",
-  "on_tertiary": "#11111b",
+	"tertiary": "#94e2d5",
+	"on_tertiary": "#11111b",
 
-  "danger": "#f38ba8",
-  "on_danger": "#11111b",
+	"success": "#00d443",
+	"on_success": "#ffffff",
 
-  "background": "#1e1e2e",
-  "on_background": "#cdd6f4",
+	"danger": "#f38ba8",
+	"on_danger": "#11111b",
 
-  "background_variant": "#313244",
-  "on_background_variant": "#a3b4eb",
+	"background": "#1e1e2e",
+	"on_background": "#cdd6f4",
 
-  "background_contrast": "#181825",
-  "on_background_contrast": "#cdd6f4",
+	"background_variant": "#313244",
+	"on_background_variant": "#a3b4eb",
 
-  "outline": "#4c4f69",
-  "shadow": "#11111b",
-  "highlight": "#45475a"
+	"background_contrast": "#181825",
+	"on_background_contrast": "#cdd6f4",
+
+	"outline": "#4c4f69",
+	"shadow": "#11111b",
+	"highlight": "#45475a"
 }
 ```
 
 #### Color Explanations:
+
 - **Primary**: often used for showing depress/checked/active state of controls
 - **Secondary**: 2nd accent color, used mostly for text highlights
 - **Tertiary**: used for highlights, such as hover effects
